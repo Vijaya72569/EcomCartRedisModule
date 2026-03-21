@@ -49,6 +49,15 @@ http://localhost:5072/api/User/register
 http://localhost:5072/api/Cart/CartItems
 
 ----------------------------------------------------------------------------
+## UI Preview
+
+![App Screenshot](screenshot.png)
+
+
+
+
+
+--------------------------------------------------------------------------------
 Author
 
 Your Name:K.S.Vijaya
